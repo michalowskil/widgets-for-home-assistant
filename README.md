@@ -44,8 +44,7 @@ Zepp → **Device application settings** → **More** → **Widgets for Home Ass
 - **Buy full version:** top of Settings → **Buy** → enter the code at [kzl.io/code](https://kzl.io/code).
 - **Clear slot** — empties the current slot (with confirm).
 
-<img src="docs/screenshots/settings-edit-element.jpg" alt="Edit an element: position, size, colors" width="280">
-<img src="docs/screenshots/settings-button-actions.jpg" alt="Button tap/hold: After tap, domain, service, data" width="280">
+<img src="docs/screenshots/settings-edit-element.jpg" alt="Edit an element: position, size, colors" width="280"> <img src="docs/screenshots/settings-button-actions.jpg" alt="Button tap/hold: After tap, domain, service, data" width="280">
 
 ### App tab
 
