@@ -57,6 +57,10 @@ Zepp → **Device application settings** → **More** → **Widgets for Home Ass
 
 ## Watch
 
+Example layouts (import from [Discussions](https://github.com/michalowskil/widgets-for-home-assistant/discussions)):
+
+<img src="docs/screenshots/widget-lights-blinds.png" alt="Lights and blinds widget" width="160"> <img src="docs/screenshots/widget-activities-av.png" alt="Activities and AV widget" width="160"> <img src="docs/screenshots/widget-climate-fan.png" alt="Climate and fan widget" width="160"> <img src="docs/screenshots/widget-quad-buttons.png" alt="Four-quadrant buttons widget" width="160">
+
 ### Widget (HA Widget 1…5)
 
 - Shows cached layout; no sync spinner.
