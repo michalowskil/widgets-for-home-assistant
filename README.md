@@ -67,7 +67,7 @@ Example layouts (import from [Discussions](https://github.com/michalowskil/widge
 - Tap/hold button → HA action and/or Widget app (per After tap/hold + slot flags).
 - Sync: while focused, pulls **this slot** from the phone after ~10 s.
 
-**Carousel note:** you can define **5** layouts, but some watches only keep **4** widgets from one app on the swipe stack. Use Widget app for the 5th layout if needed.
+**Carousel:** you can add **5** HA widgets, but the watch keeps only as many as fit next to system widgets and other apps. Long-press edit can list all five; after you leave edit — or after a reboot — the stack may show fewer or drop another app’s widget. Use **Widget app** for any slot that is not on the swipe stack.
 
 ### Widget app
 
