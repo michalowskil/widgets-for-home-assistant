@@ -94,4 +94,4 @@ Include watch model + app version when reporting bugs.
 
 ## Version
 
-**1.0.0**
+**1.0.2**
